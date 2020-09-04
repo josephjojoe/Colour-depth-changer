@@ -1,5 +1,4 @@
 from PIL import Image
-import imageio
 
 # This function uses an adaptive palette
 def image_depth_gif(pathToImage, frameDuration=500): 
